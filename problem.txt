@@ -1,0 +1,4 @@
+You have a phoneNumber = "3662277"
+you have a list of words:
+words = { "foo", "bar", "baz", "foobar", "emo", "cap", "car", "cat" }
+you have to list all words that are would be typed on an old phone pad like the key 2 would be a, b or c, etc.
